@@ -5,7 +5,8 @@
 *.pyc
 .ipynb_checkpoints
 results/
-models/
+/models/
+!musetalk/models/
 **/__pycache__/
 *.py[cod]
 *$py.class
